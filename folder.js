@@ -50,7 +50,7 @@ treeGitIcon.addEventListener("click", e => {
 })
 excelGitIcon.addEventListener("click", e => {
     let a = document.createElement("a");
-    a.href = "https://osho957.github.io/Excel-Book/";
+    a.href = "https://github.com/Osho957/Blogging-Backend-Application";
     a.target = "_blank";
     a.click();
     a.remove();
